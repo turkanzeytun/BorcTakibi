@@ -1,0 +1,12 @@
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.DAL\bin\Debug\CariBorcTakip.DAL.dll.config
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.DAL\bin\Debug\CariBorcTakip.DAL.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.DAL\bin\Debug\CariBorcTakip.DAL.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.DAL\bin\Debug\CariBorcTakip.Entites.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.DAL\bin\Debug\EntityFramework.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.DAL\bin\Debug\CariBorcTakip.Entites.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.DAL\bin\Debug\EntityFramework.xml
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.DAL\obj\Debug\CariBorcTakip.DAL.csprojResolveAssemblyReference.cache
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.DAL\obj\Debug\CariBorcTakip.DAL.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.DAL\obj\Debug\CariBorcTakip.DAL.pdb

@@ -1,0 +1,4 @@
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.Entites\bin\Debug\CariBorcTakip.Entites.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.Entites\bin\Debug\CariBorcTakip.Entites.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.Entites\obj\Debug\CariBorcTakip.Entites.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.Entites\obj\Debug\CariBorcTakip.Entites.pdb

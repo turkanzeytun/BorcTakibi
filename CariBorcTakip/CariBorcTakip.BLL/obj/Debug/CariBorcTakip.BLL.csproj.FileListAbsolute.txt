@@ -1,0 +1,11 @@
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.BLL\bin\Debug\CariBorcTakip.BLL.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.BLL\bin\Debug\CariBorcTakip.BLL.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.BLL\bin\Debug\CariBorcTakip.DAL.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.BLL\bin\Debug\CariBorcTakip.Entites.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.BLL\bin\Debug\EntityFramework.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.BLL\bin\Debug\CariBorcTakip.DAL.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.BLL\bin\Debug\CariBorcTakip.Entites.pdb
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.BLL\bin\Debug\EntityFramework.xml
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.BLL\obj\Debug\CariBorcTakip.BLL.csprojResolveAssemblyReference.cache
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.BLL\obj\Debug\CariBorcTakip.BLL.dll
+C:\Users\TURKAN\Documents\Visual Studio 2013\Projects\CariBorcTakip\CariBorcTakip.BLL\obj\Debug\CariBorcTakip.BLL.pdb
